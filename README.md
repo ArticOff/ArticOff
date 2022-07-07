@@ -23,3 +23,7 @@
 <p align="center">
   <img src="https://profile-counter.glitch.me/ArticOff/count.svg" />
 </p>
+
+---
+
+<a href="https://github.com/ArticOff" target="_blank"><img src="https://github.com/ArticOff/ArticOff/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
