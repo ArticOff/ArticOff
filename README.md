@@ -1,6 +1,17 @@
-- 👋 Hi, I’m @ArticOff
-- 👀 I’m interested in my projects
-- 🌱 I’m currently learning other languages
-- 📫 artic@recopspeople.fr
+### <p align="center">⚙️ &nbsp;Statistics</p>
+<br>
+<p align="center">
+<a href="https://github.com/billythegoat356">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArticOff&show_icons=true&theme=react&include_all_commits=true&locale=fr"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArticOff&layout=compact&langs_count=8&theme=react&locale=fr"/>
+</a>
+  
+</p>
 
-<img align="left" alt="ArticOff" src="https://github-readme-stats.vercel.app/api?username=ArticOff&show_icons=true&hide_border=false&title_color=7332a82&icon_color=7332a82&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+-----
+
+### <p align="center">👀 &nbsp;Visitors</p>
+<br>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ArticOff/count.svg" />
+</p>
