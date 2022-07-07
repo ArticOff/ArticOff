@@ -1,3 +1,11 @@
+
+### <p align="center">😃 &nbsp;I am...</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/81034458/177738333-0c3cb9d9-4835-4a8e-996c-1bda4866b23e.png" />
+</p>
+
+---
+
 ### <p align="center">⚙️ &nbsp;Statistics</p>
 <br>
 <p align="center">
