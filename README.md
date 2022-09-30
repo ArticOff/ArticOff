@@ -1,7 +1,7 @@
 
 ### <p align="center">😃 &nbsp;I am...</p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/81034458/177738333-0c3cb9d9-4835-4a8e-996c-1bda4866b23e.png" />
+  <img src="https://user-images.githubusercontent.com/81034458/193327851-5ade403d-b082-499c-b384-3535e85e1e1c.png" />
 </p>
 
 ---
