@@ -4,7 +4,7 @@
 
 ### <p align="center">😃 &nbsp;I am...</p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/81034458/193327851-5ade403d-b082-499c-b384-3535e85e1e1c.png" />
+  <img src="https://user-images.githubusercontent.com/81034458/206860154-956c8589-3a10-4922-8c90-54c84d13ea48.png" />
 </p>
 
 ---
