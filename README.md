@@ -20,6 +20,16 @@
 
 ---
 
+### <p align="center">📚 &nbsp;My skills</p>
+
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,html,css,py,github,git,c,cs,cpp,vscode,nodejs,blender,discord,bots,dotnet,lua,md,netlify,regex,stackoverflow,twitter,visualstudio,workers&perline=12" />
+    </a>
+</p>
+
+---
+
 ### <p align="center">👀 &nbsp;Visitors</p>
 <br>
 <p align="center">
