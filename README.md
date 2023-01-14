@@ -1,11 +1,31 @@
-<div align="right">
-<img src="https://camo.githubusercontent.com/25cebc5cae4a01ff5d3e1199aac7e4b83bcf1d341f6313173a994727d17a3ecb/68747470733a2f2f692e616c6578666c69706e6f74652e6465762f346839336775792e706e67"/>
-</div>
-
 ### <p align="center">😃 &nbsp;I am...</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/81034458/206860154-956c8589-3a10-4922-8c90-54c84d13ea48.png" />
-</p>
+
+```py
+class GitHub(Profile):
+    def __init__(self) -> None:
+        super().__init__(self)
+        
+        self.github: dict[str, str] = {
+            "profile": "https://github.com/ArticOff/",
+            "website": "https://articoff.github.io/"
+        }
+
+        self.discord: dict[str, str] = {
+            "account": "Artic#3065",
+            "server": "https://discord.gg/h7YFnP45jv"
+        }
+        
+        self.me: dict[str, str] = {
+            "name": "Adam",
+            "age": 14,
+            "working_on": {
+                "project": "Interact",
+                "website": "https://www.interact-bot.xyz/"
+            }
+        }
+        
+        return
+```
 
 ---
 
