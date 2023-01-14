@@ -5,17 +5,17 @@ class GitHub(Profile):
     def __init__(self) -> None:
         super().__init__(self)
         
-        self.github: dict[str, str] = {
+        self.github: dict = {
             "profile": "https://github.com/ArticOff/",
             "website": "https://articoff.github.io/"
         }
 
-        self.discord: dict[str, str] = {
+        self.discord: dict = {
             "account": "Artic#3065",
             "server": "https://discord.gg/h7YFnP45jv"
         }
         
-        self.me: dict[str, str] = {
+        self.me: dict = {
             "name": "Adam",
             "age": 14,
             "working_on": {
