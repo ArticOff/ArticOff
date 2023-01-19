@@ -3,7 +3,7 @@
 ```py
 class GitHub(Profile):
     def __init__(self) -> None:
-        super().__init__(self)
+        super().__init__()
         
         self.github: dict = {
             "profile": "https://github.com/ArticOff/",
