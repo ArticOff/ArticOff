@@ -20,7 +20,7 @@ class GitHub(Profile):
             "age": 14,
             "working_on": {
                 "project": "Interact",
-                "website": "https://www.interact-bot.xyz/"
+                "website": "https://new.interact-bot.xyz/"
             }
         }
         
