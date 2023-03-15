@@ -44,7 +44,7 @@ class GitHub(Profile):
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=ts,js,html,css,express,py,github,git,c,cs,cpp,vscode,nodejs,blender,discord,bots,dotnet,lua,md,netlify,regex,stackoverflow,twitter,visualstudio,workers,powershell,bash,heroku,linux,instagram&perline=12" />
+        <img src="https://skillicons.dev/icons?i=ts,js,html,css,express,py,github,git,c,cs,cpp,vscode,nodejs,blender,discord,bots,dotnet,lua,md,netlify,regex,stackoverflow,twitter,visualstudio,workers,powershell,bash,heroku,linux,instagram,replit,tailwind,&perline=12" />
     </a>
 </p>
 
