@@ -16,7 +16,7 @@ class GitHub(Profile):
         }
         
         self.me: dict = {
-            "name": "Adam",
+            "name": "Néji",
             "age": 14,
             "working_on": {
                 "project": "A social network",
