@@ -19,8 +19,8 @@ class GitHub(Profile):
             "name": "Néji",
             "age": 14,
             "working_on": {
-                "project": "A social network",
-                "website": "https://social.interact-bot.xyz/"
+                "project": "RDE",
+                "website": "https://rde.interact-bot.xyz/ (soon)"
             }
         }
         
