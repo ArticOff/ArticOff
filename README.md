@@ -17,7 +17,7 @@ class GitHub(Profile):
         
         self.me: dict = {
             "name": "Néji",
-            "age": 14,
+            "age": 15,
             "working_on": {
                 "project": "RDE",
                 "website": "https://rde.interact-bot.xyz/ (soon)"
