@@ -11,7 +11,7 @@ class GitHub(Profile):
         }
 
         self.discord: dict = {
-            "account": "Artic#3065",
+            "account": "@articoffi",
             "server": "https://discord.gg/h7YFnP45jv"
         }
         
@@ -19,8 +19,8 @@ class GitHub(Profile):
             "name": "Néji",
             "age": 15,
             "working_on": {
-                "project": "KernelApp",
-                "website": "https://kernelapp.net/ (soon)"
+                "project": "Encanta",
+                "website": "GitHub Repo that doesn't exist."
             }
         }
         
