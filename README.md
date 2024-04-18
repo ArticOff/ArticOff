@@ -19,8 +19,8 @@ class GitHub(Profile):
             "name": "Néji",
             "age": 15,
             "working_on": {
-                "project": "EasyBoard",
-                "website": "GitHub Repo that doesn't exist."
+                "project": "Bread",
+                "website": "github.com/ArticOff/Bread"
             }
         }
         
