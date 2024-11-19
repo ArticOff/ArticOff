@@ -17,11 +17,8 @@ class GitHub(Profile):
         
         self.me: dict = {
             "name": "Néji",
-            "age": 15,
-            "working_on": {
-                "project": "Bread",
-                "website": "github.com/ArticOff/Bread"
-            }
+            "age": 16,
+            "working_on": "Trophées NSI Édition 2025"
         }
         
         return
