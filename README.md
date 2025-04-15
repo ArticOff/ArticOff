@@ -11,14 +11,13 @@ class GitHub(Profile):
         }
 
         self.discord: dict = {
-            "account": "@articoffi",
-            "server": "https://discord.gg/h7YFnP45jv"
+            "account": "@articoffi"
         }
         
         self.me: dict = {
             "name": "Néji",
             "age": 16,
-            "working_on": "Trophées NSI Édition 2025"
+            "working_on": "M4MB4"
         }
         
         return
