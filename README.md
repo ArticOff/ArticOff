@@ -15,8 +15,7 @@ class GitHub(Profile):
         }
         
         self.me: dict = {
-            "name": "Néji",
-            "age": 16,
+            "age": 17,
             "working_on": "M4MB4"
         }
         
